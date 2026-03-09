@@ -1,4 +1,4 @@
-# 📝 Respostas — Atividade 02: Prompt Engineering
+# Respostas - Atividade 02: Prompt Engineering
 
 **Nome:** _______________________  
 **Data:** _______________________

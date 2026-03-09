@@ -1,4 +1,4 @@
-# 📝 Respostas — Atividade 04: Alucinações
+# Respostas - Atividade 04: Alucinacoes
 
 **Nome:** _______________________  
 **Data:** _______________________

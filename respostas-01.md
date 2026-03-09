@@ -1,4 +1,4 @@
-# 📝 Respostas — Atividade 01: Tokens
+# Respostas - Atividade 01: Tokens
 
 **Nome:** _______________________  
 **Data:** _______________________

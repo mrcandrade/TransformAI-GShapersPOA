@@ -1,4 +1,4 @@
-# 📝 Respostas — Atividade 05: Ética e Viés
+# Respostas - Atividade 05: Etica e Vies
 
 **Nome:** _______________________  
 **Data:** _______________________

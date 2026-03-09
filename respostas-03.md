@@ -1,4 +1,4 @@
-# 📝 Respostas — Atividade 03: Temperatura e Criatividade
+# Respostas - Atividade 03: Temperatura e Criatividade
 
 **Nome:** _______________________  
 **Data:** _______________________
