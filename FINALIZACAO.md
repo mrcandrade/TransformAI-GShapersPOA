@@ -47,7 +47,6 @@ Para receber o premio, voce precisa criar uma conta no **Banco Max**:
 - Conta 100% digital e gratuita
 - Sem taxas de manutencao
 - PIX ilimitado e gratuito
-- Cartao de debito sem anuidade
 - App facil de usar
 
 ---
